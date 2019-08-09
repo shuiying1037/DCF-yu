@@ -1,0 +1,812 @@
+0 3013e1b5726de1f9
+0's fingerprint(insert) : e1f9 and index15
+1 5ee3f139c408b877
+1's fingerprint(insert) : b877 and index19
+2 6409608f105c9933
+2's fingerprint(insert) : 9933 and indexf
+3 9578766410cdda9b
+3's fingerprint(insert) : da9b and index4
+4 c5861d66b179afe6
+4's fingerprint(insert) : afe6 and index6
+5 39ceb970d6771cc6
+5's fingerprint(insert) : 1cc6 and index10
+6 ae13b692a2314f4
+6's fingerprint(insert) : 14f4 and index9
+7 764427259cab1efb
+7's fingerprint(insert) : 1efb and index5
+8 a77ef6d974872d9c
+8's fingerprint(insert) : 2d9c and index19
+9 9d5e9b0d5854e5d6
+9's fingerprint(insert) : e5d6 and indexd
+10 ee979a597b24b28d
+10's fingerprint(insert) : b28d and index19
+11 c2f747f5b6d8ce1d
+11's fingerprint(insert) : ce1d and index15
+12 9e47d54eedaec5e
+12's fingerprint(insert) : ec5e and index14
+13 6b91c14e171788c2
+13's fingerprint(insert) : 88c2 and indexe
+14 9fa3f0ed80e58967
+14's fingerprint(insert) : 8967 and indexd
+15 dbc863b9b24fccb9
+15's fingerprint(insert) : ccb9 and index19
+16 e108d231750ac7ba
+16's fingerprint(insert) : c7ba and index11
+17 d127efd3ad04880b
+17's fingerprint(insert) : 880b and index13
+18 cff07228f3b7bd20
+18's fingerprint(insert) : bd20 and index8
+19 a87683e0b21c7faf
+19's fingerprint(insert) : 7faf and index0
+20 fea9743f58907972
+20's fingerprint(insert) : 7972 and index1f
+21 d01ebfaf61227fef
+21's fingerprint(insert) : 7fef and indexf
+22 1aac4b52aa4709a
+22's fingerprint(insert) : 709a and index15
+23 2c8ddc0c7b404b10
+23's fingerprint(insert) : 4b10 and indexc
+24 d954cd052eba611d
+24's fingerprint(insert) : 611d and index5
+25 d2b77071561598b8
+25's fingerprint(insert) : 98b8 and index11
+26 d4ecb2aa0093c6d7
+26's fingerprint(insert) : c6d7 and indexa
+27 173598c4760179c3
+27's fingerprint(insert) : 79c3 and index4
+28 5d9198a2a292dc0d
+28's fingerprint(insert) : dc0d and index2
+29 750753309e089e66
+29's fingerprint(insert) : 9e66 and index10
+30 3860e286c8e3fcb3
+30's fingerprint(insert) : fcb3 and index6
+31 1ea44aec1d4fede5
+31's fingerprint(insert) : ede5 and indexc
+32 624a94a1827c7ec0
+32's fingerprint(insert) : 7ec0 and index1
+33 86298c5c370ca5a8
+33's fingerprint(insert) : a5a8 and index1c
+34 1d68e2dcd9f728eb
+34's fingerprint(insert) : 28eb and index1c
+35 a7861d99c552198d
+35's fingerprint(insert) : 198d and index19
+36 a3c76734bd08cf30
+36's fingerprint(insert) : cf30 and index14
+37 c1d91ac28cdee6c9
+37's fingerprint(insert) : e6c9 and index2
+38 b0638aaa37d4b804
+38's fingerprint(insert) : b804 and indexa
+39 511eba6f91b7488e
+39's fingerprint(insert) : 488e and indexf
+40 bda32cc5c55b9c88
+40's fingerprint(insert) : 9c88 and index5
+41 2f27d9154eaf4320
+41's fingerprint(insert) : 4320 and index15
+42 e2a0d82c2e8acf37
+42's fingerprint(insert) : cf37 and indexc
+43 c610620cca698377
+43's fingerprint(insert) : 8377 and indexc
+44 f8412e3e3dbc446
+44's fingerprint(insert) : c446 and index3
+45 8a8b5602c1318e7b
+45's fingerprint(insert) : 8e7b and index2
+46 20f3c6b8a8b9d094
+46's fingerprint(insert) : d094 and index18
+47 21e3101b722ddeb3
+47's fingerprint(insert) : deb3 and index1b
+48 ee7c47a5d9677368
+48's fingerprint(insert) : 7368 and index5
+49 2fa7f6007766d5c7
+49's fingerprint(insert) : d5c7 and index0
+50 669eedc4136c2de6
+50's fingerprint(insert) : 2de6 and index4
+51 4ab0aa87f8184960
+51's fingerprint(insert) : 4960 and index7
+52 43d967f3d941ba3d
+52's fingerprint(insert) : ba3d and index13
+53 bb225f7ab3b994ee
+53's fingerprint(insert) : 94ee and index1a
+54 350dbd27f28d772
+54's fingerprint(insert) : d772 and index12
+55 76f6e708fb9dae61
+55's fingerprint(insert) : ae61 and index8
+56 bd5f4990f0101474
+56's fingerprint(insert) : 1474 and index10
+57 1ebfd40e6f3806c8
+57's fingerprint(insert) : 6c8 and indexe
+58 1338ac0e8ec9dac9
+58's fingerprint(insert) : dac9 and indexe
+59 8f66da7ad405ce30
+59's fingerprint(insert) : ce30 and index1a
+60 10ebcd550add25a
+60's fingerprint(insert) : d25a and index15
+61 3364b8dd06f3d729
+61's fingerprint(insert) : d729 and index1d
+62 b916a80bc55274e4
+62's fingerprint(insert) : 74e4 and indexb
+63 3f26578acb6bb94
+63's fingerprint(insert) : bb94 and index18
+64 51eee5f42db471da
+64's fingerprint(insert) : 71da and index14
+65 1466b794b280340c
+65's fingerprint(insert) : 340c and index14
+66 887a335c9b085c41
+66's fingerprint(insert) : 5c41 and index1c
+67 65459ad53ad6863d
+67's fingerprint(insert) : 863d and index15
+68 3739ba8ba91195a6
+68's fingerprint(insert) : 95a6 and indexb
+69 f14bf7a81b11493c
+69's fingerprint(insert) : 493c and index8
+70 f226d7e348912ec3
+70's fingerprint(insert) : 2ec3 and index3
+71 2ccded2cd2655b01
+71's fingerprint(insert) : 5b01 and indexc
+72 86dba34a07e61ce6
+72's fingerprint(insert) : 1ce6 and indexa
+73 679af15e60ece9c6
+73's fingerprint(insert) : e9c6 and index1e
+74 3fd1ac634fef8791
+74's fingerprint(insert) : 8791 and index3
+75 7650fb35b1fa892b
+75's fingerprint(insert) : 892b and index15
+76 11245d315668ec4c
+76's fingerprint(insert) : ec4c and index11
+77 470113d9474a4f62
+77's fingerprint(insert) : 4f62 and index19
+78 d539ac6f556c45d8
+78's fingerprint(insert) : 45d8 and indexf
+79 149c93fd54762efc
+79's fingerprint(insert) : 2efc and index1d
+80 f6353a7d64666ed7
+80's fingerprint(insert) : 6ed7 and index1d
+81 e983f17d1193bd2b
+81's fingerprint(insert) : bd2b and index1d
+82 95cb9d09d647d931
+82's fingerprint(insert) : d931 and index9
+83 10b2f16ee8bf7a5d
+83's fingerprint(insert) : 7a5d and indexe
+84 7e5c2e694ff27af0
+84's fingerprint(insert) : 7af0 and index9
+85 7afc58323872dc
+85's fingerprint(insert) : 72dc and index18
+86 e0ab7d9c7551ab32
+86's fingerprint(insert) : ab32 and index1c
+87 4b92a32b37ebb39f
+87's fingerprint(insert) : b39f and indexb
+88 5863760b78fde79e
+88's fingerprint(insert) : e79e and indexb
+89 ce498c57af224f1f
+89's fingerprint(insert) : 4f1f and index17
+90 2f09ef66fcc57232
+90's fingerprint(insert) : 7232 and index6
+91 6da52e979bc1ad5d
+91's fingerprint(insert) : ad5d and index17
+92 f94948cf673f3ced
+92's fingerprint(insert) : 3ced and indexf
+93 9908530045934d20
+93's fingerprint(insert) : 4d20 and index0
+94 76455f0dcb650492
+94's fingerprint(insert) : 492 and indexd
+95 ec6e07bd700c63e8
+95's fingerprint(insert) : 63e8 and index1d
+96 20fbb41b7720b608
+96's fingerprint(insert) : b608 and index1b
+97 d86207bb83fe0cc2
+97's fingerprint(insert) : cc2 and index1b
+98 6ee52ca87622f973
+98's fingerprint(insert) : f973 and index8
+99 e19ff78044190ee1
+99's fingerprint(insert) : ee1 and index0
+queryItem*******0 10 20
+//////////
+0 hashed string :1cf03dae789f854
+1a
+ fingerprint(query) : f854 and index:1a  bd2bce3094ee
+ fingerprint(query) : f854 and index:1e  3cede9c6
+queryItem*******1 10 20
+//////////
+1 hashed string :5ee3f139c408b877
+19
+ fingerprint(query) : b877 and index:19  198d5b012d9cb877
+Item=1,Item not found.
+queryItem*******2 10 20
+//////////
+2 hashed string :6409608f105c9933
+f
+ fingerprint(query) : 9933 and index:f  45d8488e7fef9933
+Item=2,Item not found.
+queryItem*******3 10 20
+//////////
+3 hashed string :308be135b3a8bccb
+15
+ fingerprint(query) : bccb and index:15  4320709ace1d63e8
+ fingerprint(query) : bccb and index:12  892bd772
+queryItem*******4 10 20
+//////////
+4 hashed string :951adc41cd028101
+1
+ fingerprint(query) : 8101 and index:1  7ec0
+ fingerprint(query) : 8101 and index:14  863d71daccb9ec5e
+queryItem*******5 10 20
+//////////
+5 hashed string :d6d98379a5546d62
+19
+ fingerprint(query) : 6d62 and index:19  198d5b012d9cb877
+ fingerprint(query) : 6d62 and index:13  4f62ba3d880b
+queryItem*******6 10 20
+//////////
+6 hashed string :5fe805f2300a377d
+12
+ fingerprint(query) : 377d and index:12  892bd772
+ fingerprint(query) : 377d and index:13  4f62ba3d880b
+queryItem*******7 10 20
+//////////
+7 hashed string :f7f7dcea5cdfda50
+a
+ fingerprint(query) : da50 and index:a  1ce6b804c6d7
+ fingerprint(query) : da50 and index:1a  bd2bce3094ee
+queryItem*******8 10 20
+//////////
+8 hashed string :1373baaa7de78e68
+a
+ fingerprint(query) : 8e68 and index:a  1ce6b804c6d7
+ fingerprint(query) : 8e68 and index:2  8e7be6c9dc0d
+queryItem*******9 10 20
+//////////
+9 hashed string :216cbcb8b780120d
+18
+ fingerprint(query) : 120d and index:18  e1f972dcbb94d094
+ fingerprint(query) : 120d and index:9  7af0d93114f4
+queryItem*******10 10 20
+//////////
+10 hashed string :477b037338ccb69c
+13
+ fingerprint(query) : b69c and index:13  4f62ba3d880b
+ fingerprint(query) : b69c and index:1f  7972
+queryItem*******11 10 20
+//////////
+11 hashed string :60f7a20db39630f5
+d
+ fingerprint(query) : 30f5 and index:d  4928967e5d6
+ fingerprint(query) : 30f5 and index:14  863d71daccb9ec5e
+queryItem*******12 10 20
+//////////
+12 hashed string :7981884d5b78c15d
+d
+ fingerprint(query) : c15d and index:d  4928967e5d6
+ fingerprint(query) : c15d and index:c  8377cf37ede54b10
+queryItem*******13 10 20
+//////////
+13 hashed string :486dda5034207963
+10
+ fingerprint(query) : 7963 and index:10  14749e661cc6
+ fingerprint(query) : 7963 and index:f  45d8488e7fef9933
+queryItem*******14 10 20
+//////////
+14 hashed string :9fa3f0ed80e58967
+d
+ fingerprint(query) : 8967 and index:d  4928967e5d6
+Item=14,Item not found.
+queryItem*******15 10 20
+//////////
+15 hashed string :dbc863b9b24fccb9
+19
+ fingerprint(query) : ccb9 and index:19  198d5b012d9cb877
+ fingerprint(query) : ccb9 and index:14  863d71daccb9ec5e
+Item=15,Item not found.
+queryItem*******16 10 20
+//////////
+16 hashed string :e108d231750ac7ba
+11
+ fingerprint(query) : c7ba and index:11  ec4c98b8c7ba
+Item=16,Item not found.
+queryItem*******17 10 20
+//////////
+17 hashed string :d127efd3ad04880b
+13
+ fingerprint(query) : 880b and index:13  4f62ba3d880b
+Item=17,Item not found.
+queryItem*******18 10 20
+//////////
+18 hashed string :cff07228f3b7bd20
+8
+ fingerprint(query) : bd20 and index:8  340c493cb28dbd20
+Item=18,Item not found.
+queryItem*******19 10 20
+//////////
+19 hashed string :a87683e0b21c7faf
+0
+ fingerprint(query) : 7faf and index:0  ee14d20d5c77faf
+Item=19,Item not found.
+queryItem*******20 10 20
+//////////
+20 hashed string :fea9743f58907972
+1f
+ fingerprint(query) : 7972 and index:1f  7972
+Item=20,Item not found.
+queryItem*******21 10 20
+//////////
+21 hashed string :d01ebfaf61227fef
+f
+ fingerprint(query) : 7fef and index:f  45d8488e7fef9933
+Item=21,Item not found.
+queryItem*******22 10 20
+//////////
+22 hashed string :1aac4b52aa4709a
+15
+ fingerprint(query) : 709a and index:15  4320709ace1d63e8
+Item=22,Item not found.
+queryItem*******23 10 20
+//////////
+23 hashed string :2c8ddc0c7b404b10
+c
+ fingerprint(query) : 4b10 and index:c  8377cf37ede54b10
+Item=23,Item not found.
+queryItem*******24 10 20
+//////////
+24 hashed string :d954cd052eba611d
+5
+ fingerprint(query) : 611d and index:5  73689c88611d1efb
+Item=24,Item not found.
+queryItem*******25 10 20
+//////////
+25 hashed string :d2b77071561598b8
+11
+ fingerprint(query) : 98b8 and index:11  ec4c98b8c7ba
+Item=25,Item not found.
+queryItem*******26 10 20
+//////////
+26 hashed string :d4ecb2aa0093c6d7
+a
+ fingerprint(query) : c6d7 and index:a  1ce6b804c6d7
+Item=26,Item not found.
+queryItem*******27 10 20
+//////////
+27 hashed string :173598c4760179c3
+4
+ fingerprint(query) : 79c3 and index:4  cf302de679c3da9b
+Item=27,Item not found.
+queryItem*******28 10 20
+//////////
+28 hashed string :5d9198a2a292dc0d
+2
+ fingerprint(query) : dc0d and index:2  8e7be6c9dc0d
+Item=28,Item not found.
+queryItem*******29 10 20
+//////////
+29 hashed string :750753309e089e66
+10
+ fingerprint(query) : 9e66 and index:10  14749e661cc6
+Item=29,Item not found.
+queryItem*******30 10 20
+//////////
+30 hashed string :3860e286c8e3fcb3
+6
+ fingerprint(query) : fcb3 and index:6  7232fcb3afe6
+Item=30,Item not found.
+queryItem*******31 10 20
+//////////
+31 hashed string :1ea44aec1d4fede5
+c
+ fingerprint(query) : ede5 and index:c  8377cf37ede54b10
+Item=31,Item not found.
+queryItem*******32 10 20
+//////////
+32 hashed string :624a94a1827c7ec0
+1
+ fingerprint(query) : 7ec0 and index:1  7ec0
+Item=32,Item not found.
+queryItem*******33 10 20
+//////////
+33 hashed string :86298c5c370ca5a8
+1c
+ fingerprint(query) : a5a8 and index:1c  ab325c4128eba5a8
+Item=33,Item not found.
+queryItem*******34 10 20
+//////////
+34 hashed string :1d68e2dcd9f728eb
+1c
+ fingerprint(query) : 28eb and index:1c  ab325c4128eba5a8
+Item=34,Item not found.
+queryItem*******35 10 20
+//////////
+35 hashed string :a7861d99c552198d
+19
+ fingerprint(query) : 198d and index:19  198d5b012d9cb877
+Item=35,Item not found.
+queryItem*******36 10 20
+//////////
+36 hashed string :a3c76734bd08cf30
+14
+ fingerprint(query) : cf30 and index:14  863d71daccb9ec5e
+ fingerprint(query) : cf30 and index:4  cf302de679c3da9b
+Item=36,Item not found.
+queryItem*******37 10 20
+//////////
+37 hashed string :c1d91ac28cdee6c9
+2
+ fingerprint(query) : e6c9 and index:2  8e7be6c9dc0d
+Item=37,Item not found.
+queryItem*******38 10 20
+//////////
+38 hashed string :b0638aaa37d4b804
+a
+ fingerprint(query) : b804 and index:a  1ce6b804c6d7
+Item=38,Item not found.
+queryItem*******39 10 20
+//////////
+39 hashed string :511eba6f91b7488e
+f
+ fingerprint(query) : 488e and index:f  45d8488e7fef9933
+Item=39,Item not found.
+queryItem*******40 10 20
+//////////
+40 hashed string :bda32cc5c55b9c88
+5
+ fingerprint(query) : 9c88 and index:5  73689c88611d1efb
+Item=40,Item not found.
+queryItem*******41 10 20
+//////////
+41 hashed string :2f27d9154eaf4320
+15
+ fingerprint(query) : 4320 and index:15  4320709ace1d63e8
+Item=41,Item not found.
+queryItem*******42 10 20
+//////////
+42 hashed string :e2a0d82c2e8acf37
+c
+ fingerprint(query) : cf37 and index:c  8377cf37ede54b10
+Item=42,Item not found.
+queryItem*******43 10 20
+//////////
+43 hashed string :c610620cca698377
+c
+ fingerprint(query) : 8377 and index:c  8377cf37ede54b10
+Item=43,Item not found.
+queryItem*******44 10 20
+//////////
+44 hashed string :f8412e3e3dbc446
+3
+ fingerprint(query) : c446 and index:3  87912ec3c446
+Item=44,Item not found.
+queryItem*******45 10 20
+//////////
+45 hashed string :8a8b5602c1318e7b
+2
+ fingerprint(query) : 8e7b and index:2  8e7be6c9dc0d
+Item=45,Item not found.
+queryItem*******46 10 20
+//////////
+46 hashed string :20f3c6b8a8b9d094
+18
+ fingerprint(query) : d094 and index:18  e1f972dcbb94d094
+Item=46,Item not found.
+queryItem*******47 10 20
+//////////
+47 hashed string :21e3101b722ddeb3
+1b
+ fingerprint(query) : deb3 and index:1b  cc2b608deb3
+Item=47,Item not found.
+queryItem*******48 10 20
+//////////
+48 hashed string :ee7c47a5d9677368
+5
+ fingerprint(query) : 7368 and index:5  73689c88611d1efb
+Item=48,Item not found.
+queryItem*******49 10 20
+//////////
+49 hashed string :2fa7f6007766d5c7
+0
+ fingerprint(query) : d5c7 and index:0  ee14d20d5c77faf
+Item=49,Item not found.
+queryItem*******50 10 20
+//////////
+50 hashed string :669eedc4136c2de6
+4
+ fingerprint(query) : 2de6 and index:4  cf302de679c3da9b
+Item=50,Item not found.
+queryItem*******51 10 20
+//////////
+51 hashed string :4ab0aa87f8184960
+7
+ fingerprint(query) : 4960 and index:7  f9734960
+Item=51,Item not found.
+queryItem*******52 10 20
+//////////
+52 hashed string :43d967f3d941ba3d
+13
+ fingerprint(query) : ba3d and index:13  4f62ba3d880b
+Item=52,Item not found.
+queryItem*******53 10 20
+//////////
+53 hashed string :bb225f7ab3b994ee
+1a
+ fingerprint(query) : 94ee and index:1a  bd2bce3094ee
+Item=53,Item not found.
+queryItem*******54 10 20
+//////////
+54 hashed string :350dbd27f28d772
+12
+ fingerprint(query) : d772 and index:12  892bd772
+Item=54,Item not found.
+queryItem*******55 10 20
+//////////
+55 hashed string :76f6e708fb9dae61
+8
+ fingerprint(query) : ae61 and index:8  340c493cb28dbd20
+ fingerprint(query) : ae61 and index:1d  6ed72efcae61d729
+Item=55,Item not found.
+queryItem*******56 10 20
+//////////
+56 hashed string :bd5f4990f0101474
+10
+ fingerprint(query) : 1474 and index:10  14749e661cc6
+Item=56,Item not found.
+queryItem*******57 10 20
+//////////
+57 hashed string :1ebfd40e6f3806c8
+e
+ fingerprint(query) : 6c8 and index:e  7a5ddac906c888c2
+Item=57,Item not found.
+queryItem*******58 10 20
+//////////
+58 hashed string :1338ac0e8ec9dac9
+e
+ fingerprint(query) : dac9 and index:e  7a5ddac906c888c2
+Item=58,Item not found.
+queryItem*******59 10 20
+//////////
+59 hashed string :8f66da7ad405ce30
+1a
+ fingerprint(query) : ce30 and index:1a  bd2bce3094ee
+Item=59,Item not found.
+queryItem*******60 10 20
+//////////
+60 hashed string :10ebcd550add25a
+15
+ fingerprint(query) : d25a and index:15  4320709ace1d63e8
+ fingerprint(query) : d25a and index:17  ad5d4f1fd25a
+Item=60,Item not found.
+queryItem*******61 10 20
+//////////
+61 hashed string :3364b8dd06f3d729
+1d
+ fingerprint(query) : d729 and index:1d  6ed72efcae61d729
+Item=61,Item not found.
+queryItem*******62 10 20
+//////////
+62 hashed string :b916a80bc55274e4
+b
+ fingerprint(query) : 74e4 and index:b  e79eb39f95a674e4
+Item=62,Item not found.
+queryItem*******63 10 20
+//////////
+63 hashed string :3f26578acb6bb94
+18
+ fingerprint(query) : bb94 and index:18  e1f972dcbb94d094
+Item=63,Item not found.
+queryItem*******64 10 20
+//////////
+64 hashed string :51eee5f42db471da
+14
+ fingerprint(query) : 71da and index:14  863d71daccb9ec5e
+Item=64,Item not found.
+queryItem*******65 10 20
+//////////
+65 hashed string :7b27637d183e06b1
+1d
+ fingerprint(query) : 6b1 and index:1d  6ed72efcae61d729
+ fingerprint(query) : 6b1 and index:18  e1f972dcbb94d094
+queryItem*******66 10 20
+//////////
+66 hashed string :a6eec08ee962972e
+e
+ fingerprint(query) : 972e and index:e  7a5ddac906c888c2
+ fingerprint(query) : 972e and index:8  340c493cb28dbd20
+queryItem*******67 10 20
+//////////
+67 hashed string :65459ad53ad6863d
+15
+ fingerprint(query) : 863d and index:15  4320709ace1d63e8
+ fingerprint(query) : 863d and index:14  863d71daccb9ec5e
+Item=67,Item not found.
+queryItem*******68 10 20
+//////////
+68 hashed string :3739ba8ba91195a6
+b
+ fingerprint(query) : 95a6 and index:b  e79eb39f95a674e4
+Item=68,Item not found.
+queryItem*******69 10 20
+//////////
+69 hashed string :f14bf7a81b11493c
+8
+ fingerprint(query) : 493c and index:8  340c493cb28dbd20
+Item=69,Item not found.
+queryItem*******70 10 20
+//////////
+70 hashed string :f226d7e348912ec3
+3
+ fingerprint(query) : 2ec3 and index:3  87912ec3c446
+Item=70,Item not found.
+queryItem*******71 10 20
+//////////
+71 hashed string :2ccded2cd2655b01
+c
+ fingerprint(query) : 5b01 and index:c  8377cf37ede54b10
+ fingerprint(query) : 5b01 and index:19  198d5b012d9cb877
+Item=71,Item not found.
+queryItem*******72 10 20
+//////////
+72 hashed string :86dba34a07e61ce6
+a
+ fingerprint(query) : 1ce6 and index:a  1ce6b804c6d7
+Item=72,Item not found.
+queryItem*******73 10 20
+//////////
+73 hashed string :679af15e60ece9c6
+1e
+ fingerprint(query) : e9c6 and index:1e  3cede9c6
+Item=73,Item not found.
+queryItem*******74 10 20
+//////////
+74 hashed string :3fd1ac634fef8791
+3
+ fingerprint(query) : 8791 and index:3  87912ec3c446
+Item=74,Item not found.
+queryItem*******75 10 20
+//////////
+75 hashed string :7650fb35b1fa892b
+15
+ fingerprint(query) : 892b and index:15  4320709ace1d63e8
+ fingerprint(query) : 892b and index:12  892bd772
+Item=75,Item not found.
+queryItem*******76 10 20
+//////////
+76 hashed string :11245d315668ec4c
+11
+ fingerprint(query) : ec4c and index:11  ec4c98b8c7ba
+Item=76,Item not found.
+queryItem*******77 10 20
+//////////
+77 hashed string :b104fc582467fee6
+18
+ fingerprint(query) : fee6 and index:18  e1f972dcbb94d094
+ fingerprint(query) : fee6 and index:6  7232fcb3afe6
+queryItem*******78 10 20
+//////////
+78 hashed string :d539ac6f556c45d8
+f
+ fingerprint(query) : 45d8 and index:f  45d8488e7fef9933
+Item=78,Item not found.
+queryItem*******79 10 20
+//////////
+79 hashed string :149c93fd54762efc
+1d
+ fingerprint(query) : 2efc and index:1d  6ed72efcae61d729
+Item=79,Item not found.
+queryItem*******80 10 20
+//////////
+80 hashed string :f6353a7d64666ed7
+1d
+ fingerprint(query) : 6ed7 and index:1d  6ed72efcae61d729
+Item=80,Item not found.
+queryItem*******81 10 20
+//////////
+81 hashed string :e983f17d1193bd2b
+1d
+ fingerprint(query) : bd2b and index:1d  6ed72efcae61d729
+ fingerprint(query) : bd2b and index:1a  bd2bce3094ee
+Item=81,Item not found.
+queryItem*******82 10 20
+//////////
+82 hashed string :95cb9d09d647d931
+9
+ fingerprint(query) : d931 and index:9  7af0d93114f4
+Item=82,Item not found.
+queryItem*******83 10 20
+//////////
+83 hashed string :10b2f16ee8bf7a5d
+e
+ fingerprint(query) : 7a5d and index:e  7a5ddac906c888c2
+Item=83,Item not found.
+queryItem*******84 10 20
+//////////
+84 hashed string :7e5c2e694ff27af0
+9
+ fingerprint(query) : 7af0 and index:9  7af0d93114f4
+Item=84,Item not found.
+queryItem*******85 10 20
+//////////
+85 hashed string :7afc58323872dc
+18
+ fingerprint(query) : 72dc and index:18  e1f972dcbb94d094
+Item=85,Item not found.
+queryItem*******86 10 20
+//////////
+86 hashed string :e0ab7d9c7551ab32
+1c
+ fingerprint(query) : ab32 and index:1c  ab325c4128eba5a8
+Item=86,Item not found.
+queryItem*******87 10 20
+//////////
+87 hashed string :4b92a32b37ebb39f
+b
+ fingerprint(query) : b39f and index:b  e79eb39f95a674e4
+Item=87,Item not found.
+queryItem*******88 10 20
+//////////
+88 hashed string :5863760b78fde79e
+b
+ fingerprint(query) : e79e and index:b  e79eb39f95a674e4
+Item=88,Item not found.
+queryItem*******89 10 20
+//////////
+89 hashed string :ce498c57af224f1f
+17
+ fingerprint(query) : 4f1f and index:17  ad5d4f1fd25a
+Item=89,Item not found.
+queryItem*******90 10 20
+//////////
+90 hashed string :2f09ef66fcc57232
+6
+ fingerprint(query) : 7232 and index:6  7232fcb3afe6
+Item=90,Item not found.
+queryItem*******91 10 20
+//////////
+91 hashed string :6da52e979bc1ad5d
+17
+ fingerprint(query) : ad5d and index:17  ad5d4f1fd25a
+Item=91,Item not found.
+queryItem*******92 10 20
+//////////
+92 hashed string :f94948cf673f3ced
+f
+ fingerprint(query) : 3ced and index:f  45d8488e7fef9933
+ fingerprint(query) : 3ced and index:1e  3cede9c6
+Item=92,Item not found.
+queryItem*******93 10 20
+//////////
+93 hashed string :9908530045934d20
+0
+ fingerprint(query) : 4d20 and index:0  ee14d20d5c77faf
+Item=93,Item not found.
+queryItem*******94 10 20
+//////////
+94 hashed string :76455f0dcb650492
+d
+ fingerprint(query) : 492 and index:d  4928967e5d6
+Item=94,Item not found.
+queryItem*******95 10 20
+//////////
+95 hashed string :ec6e07bd700c63e8
+1d
+ fingerprint(query) : 63e8 and index:1d  6ed72efcae61d729
+ fingerprint(query) : 63e8 and index:15  4320709ace1d63e8
+Item=95,Item not found.
+queryItem*******96 10 20
+//////////
+96 hashed string :20fbb41b7720b608
+1b
+ fingerprint(query) : b608 and index:1b  cc2b608deb3
+Item=96,Item not found.
+queryItem*******97 10 20
+//////////
+97 hashed string :d86207bb83fe0cc2
+1b
+ fingerprint(query) : cc2 and index:1b  cc2b608deb3
+Item=97,Item not found.
+queryItem*******98 10 20
+//////////
+98 hashed string :6ee52ca87622f973
+8
+ fingerprint(query) : f973 and index:8  340c493cb28dbd20
+ fingerprint(query) : f973 and index:7  f9734960
+Item=98,Item not found.
+queryItem*******99 10 20
+//////////
+99 hashed string :e19ff78044190ee1
+0
+ fingerprint(query) : ee1 and index:0  ee14d20d5c77faf
+Item=99,Item not found.
+Segmentation fault (core dumped)

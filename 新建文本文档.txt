@@ -1,0 +1,9 @@
+const char* p = bucket[index].bit_array,* p1 = bucket[index+1].bit_array, * p2 = bucket[index+2].bit_array, * p3 = bucket[index+3].bit_array;
+		uint64_t bits = *(uint64_t*)p;
+		uint64_t bits1 = *(uint64_t*)p1;
+		uint64_t bits2 = *(uint64_t*)p2;
+		uint64_t bits3 = *(uint64_t*)p3;
+		for(int i=0; i < 4; i++){
+			hasvalue16(bits, fingerprint);
+		}
+		return hasvalue16(bits, fingerprint);
